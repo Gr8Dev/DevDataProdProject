@@ -47,11 +47,11 @@ summary(mtcars)
 How it works
 ========================================================
 
-·The user select the predictor (x) from the dropdown
+Â·The user select the predictor (x) from the dropdown
 
-·When the user make a choice, the plot is updated.
+Â·When the user make a choice, the plot is updated.
 
-·The user can check/uncheck the outlier box  if the outliers are to be considered or not in the plot.
+Â·The user can check/uncheck the outlier box  if the outliers are to be considered or not in the plot.
 
 Sample Plot 1
 ========================================================
